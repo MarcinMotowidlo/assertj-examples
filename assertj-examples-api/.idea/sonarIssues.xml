@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-gateway/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-gateway/src/test/java/com/netcetera/amx/gateway/model/AemeAcsOtpRqMessageConverterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-gateway/src/test/java/com/netcetera/amx/gateway/model/AemeAcsOtpRqMessageTestData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-gateway/src/test/resources/model/AemeAcsOtpRqExample.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-ext/src/main/java/com/netcetera/ncacs/challenge/otpext/amx/OtpExtAmxAutoConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-ext/src/main/java/com/netcetera/ncacs/challenge/otpext/amx/client/AemeAcsOtpRqMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-ext/src/main/java/com/netcetera/ncacs/challenge/otpext/amx/client/OtpExtAmxClientServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-ext/src/main/java/com/netcetera/ncacs/challenge/otpext/amx/client/OtpExtAmxGatewayProviderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-ext/src/test/java/com/netcetera/ncacs/challenge/otpext/amx/client/AemeAcsOtpRqMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-ext/src/test/java/com/netcetera/ncacs/challenge/otpext/amx/client/OtpExtAmxClientServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-ext/src/test/java/com/netcetera/ncacs/challenge/otpext/amx/client/OtpExtAmxClientServiceSubsystemTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-ext/src/test/java/com/netcetera/ncacs/challenge/otpext/amx/client/OtpExtAmxClientTestData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-ext/src/test/java/com/netcetera/ncacs/challenge/otpext/amx/client/OtpExtAmxGatewayProviderServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-gateway-api/src/main/java/com/netcetera/amx/gateway/message/api/model/AemeAcsOtpRq.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-gateway-api/src/main/java/com/netcetera/amx/gateway/message/api/model/AemeAcsOtpRs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-gateway-api/src/main/java/com/netcetera/amx/gateway/message/api/model/DateTimeAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../AMX001AEME/amx-otp-gateway-api/src/main/java/com/netcetera/amx/gateway/message/api/model/LocalDateTimeAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ncacs-db-seed/ncacs-db-updater-seed-app/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/assertj/example/api/Car.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/assertj/example/api/Engine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/assertj/example/api/EngineDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/assertj/example/api/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/assertj/example/api/data/CarDetailsTestData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/assertj/example/api/data/DataUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/assertj/example/api/data/EngineDetailsTestData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../assertj-examples-clasic/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../assertj-examples-classic/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../assertj-examples-classic/src/test/java/assertj/examples/classic/BasicClassicTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../assertj-examples-classic/src/test/java/assertj/examples/classic/ExceptionTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../assertj-examples-soft/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../assertj-examples-soft/src/test/java/assertj/examples/soft/BasicSoftlyTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../assertj-examples-soft/src/test/java/assertj/examples/soft/ExceptionTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../assertj-examples-soft/src/test/java/assertj/examples/soft/NumberHandlingTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

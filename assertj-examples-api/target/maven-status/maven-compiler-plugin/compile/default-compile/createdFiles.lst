@@ -1,0 +1,8 @@
+com\assertj\example\api\EngineDetails$EngineType.class
+com\assertj\example\api\data\DataUtil.class
+com\assertj\example\api\EngineDetails.class
+com\assertj\example\api\Car.class
+com\assertj\example\api\data\CarDetailsTestData.class
+com\assertj\example\api\EngineDetails$EngineDetailsBuilder.class
+com\assertj\example\api\Car$CarBuilder.class
+com\assertj\example\api\data\EngineDetailsTestData.class
